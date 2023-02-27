@@ -28,7 +28,7 @@ The password for the next level is stored in a file called readme located in the
 cat used to list out the content of the file   
 Password found in the readme file was used to connect to the same server as user bandit1   
 
-![Level1_completed](/week-2/evidence/level1.png)
+![Level1_completed](/week-2/evidence/Level1.png)
 #
 ## Level 2
 The password for the next level is stored in a file called - located in the home directory   
@@ -112,7 +112,7 @@ The password for the next level is stored in the file data.txt and is the only l
 
 cat is not a new command that I've used but the arguments sort and uniq are. I've researched on hwo to list out uniq line of text from the file and found command uniq. By just running uniq it got rid of duplicate values and gave me all of the unique values, but I've ended up with x amount of lines. I found parameter -u to be used by no luck there again. So I've researched a bit on file manipulation and found solution [here](https://www.futurelearn.com/info/courses/linux-for-bioinformatics/0/steps/201955).
 
-![Level9_completed](/week-2/evidence/level9.png)
+![Level9_completed](/week-2/evidence/Level9.png)
 
 #
 ## Level 10
@@ -122,4 +122,4 @@ The password for the next level is stored in the file data.txt in one of the few
 
 Tried using just grep '=.*=' data.txt, with expession .* to give me everything in between the equal sign. But since the file is not plain text file I had no luck. I've researched a bit on how to [search for text](https://serverfault.com/questions/51477/linux-command-to-find-strings-in-binary-or-non-ascii-file) in binary type file and found command strings, so I've used a combination of strings and grep commands to get the password from the file.
 
-![Level10_completed](/week-2/evidence/level10.png)
+![Level10_completed](/week-2/evidence/Level10.png)
