@@ -5,7 +5,7 @@ Purpose for this task is only to practice bash scripting.
 
 Please find the book online and follow the evidence I've posted below under chapters covered from the book. This will help you visualize the actions needed to create && run each test task from the book. I've left some pointers on the images and as a comment in the .sh files to some specifics about bad use cases, etc, which might help you out.
 
-### _For the reviewers, under week-3 folder .sh files are stored in chapter-1* directories and it's respective screenshot/evidence or execution is stored in directory script_execution_evidence/chapter-1*. For your convenience I've taken a screenshow of both the .sh file and execution through terminal. Screenshots/evidence is posted below under each respective chapter_.
+### _For the reviewers, .sh files are stored in chapter-1* directories and it's respective screenshot/evidence or execution is stored in directory script_execution_evidence/chapter-1*. For your convenience I've taken a screenshow of both the .sh file and execution through terminal. Screenshots/evidence is posted below under each respective chapter_.
 
 
 ----------------------------------------------------------------------------------
