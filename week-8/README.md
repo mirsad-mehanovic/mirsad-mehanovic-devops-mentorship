@@ -14,28 +14,28 @@
 
 #### - AMI image
 
-![screenshot-1](/evidence/AMIimage.png)
+![screenshot-1](evidence/AMIimage.png)
 
 #### - ALB with Target Group.
 
-![screenshot-2](/evidence/LoadBalancer.png)
+![screenshot-2](evidence/LoadBalancer.png)
 
 #### - ASG with scaling rules. 
 
-![screenshot-3](/evidence/AutoScalingGroup.png)
+![screenshot-3](evidence/AutoScalingGroup.png)
 
 #### Scaling - Dynamic scaling policies 
 
-![screenshot-4](/evidence/ASGInstancesDecrease.png)
+![screenshot-4](evidence/ASGInstancesDecrease.png)
 
 
 
 
 #### `stress` utility - simulating CPU load  
 
-![screenshot-7](/evidence//AutoScalingGroupMaxLoad.png)
+![screenshot-7](evidence//AutoScalingGroupMaxLoad.png)
 
 #### infrastructure diagram lucidchart.com
 
-![screenshot-8](/evidence/Diagram.png)
+![screenshot-8](evidence/Diagram.png)
 
